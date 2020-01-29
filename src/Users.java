@@ -2,7 +2,9 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
-
+/**
+ * @author - George Petkakis
+ */
 public class Users {
     private ArrayList<String> names;
     private ArrayList<String> passwords;

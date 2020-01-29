@@ -1,6 +1,7 @@
-import java.lang.invoke.StringConcatFactory;
 import java.util.ArrayList;
-
+/**
+ * @author - George Petkakis
+ */
 public class MailServer {
     private ArrayList<Account> acounts;
 

@@ -1,5 +1,7 @@
 import java.util.ArrayList;
-
+/**
+ * @author - George Petkakis
+ */
 public class Account {
     private String Username;
     private String Password;

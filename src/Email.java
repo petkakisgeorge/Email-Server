@@ -1,5 +1,6 @@
-import java.util.stream.Stream;
-
+/**
+ * @author - George Petkakis
+ */
 public class Email {
 
     private boolean isNew; //new-true, read-false
