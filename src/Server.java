@@ -1,9 +1,11 @@
-import java.awt.*;
 import java.io.*;
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.ArrayList;
 
+/**
+ * @author - George Petkakis
+ */
 public class Server {
     public static void main (String[] args) {
         try{
